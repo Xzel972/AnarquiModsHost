@@ -11,7 +11,7 @@
 # Ngrok region
 # Code           Place
 #-----------     ---------------------------
-# ap	          Asia/Pacific (Singapore)
+# ap	        ia/Pacifi11c (Singapore)
 # au		  Australia (Sydney)
 # eu		  Europe (Frankfurt)
 # in		  India (Mumbai)
